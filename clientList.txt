@@ -1,0 +1,5 @@
+Official_friend:Shabthana,shabthanajohnson@gmail.com,ceo,2000/09/23
+Personal:kajaani,kaja,kajaani1705@gmail.com,2022/08/15
+Personal:sivani,vani,vani@gmail.com,2000/08/15
+Official:soba,soba@gmail.com,manager
+Personal:mala,mala,shabthanajohnson@gmail.com,2000/09/23
